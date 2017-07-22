@@ -1,0 +1,29 @@
+Checksum passed
+size: 96
+entry count: 4
+first name length: 5
+first name: Linda
+last name length: 5
+last name: Smith
+flags: 0
+first name length: 4
+first name: John
+last name length: 7
+last name: Johnson
+flags: 1
+age: 36
+first name length: 6
+first name: Robert
+last name length: 8
+last name: Williams
+flags: 3
+age: 45
+height: 72
+first name length: 5
+first name: Betty
+last name length: 5
+last name: Jones
+flags: 2
+height: 60
+checksum: 1400916080
+
